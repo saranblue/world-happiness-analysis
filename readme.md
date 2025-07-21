@@ -28,15 +28,13 @@ world-happiness-analysis/
 ├── requirements.txt
 └── README.md
 
-
-
 ---
 
 ## 🚀 How to Run
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/world-happiness-analysis.git
+   git clone https://github.com/saranblue/world-happiness-analysis.git
    cd world-happiness-analysis
 2. pip install -r requirements.txt
 3. Run the scripts:
