@@ -10,7 +10,7 @@ It demonstrates how different features like GDP, Social Support, and Life Expect
 ---
 
 ## 📁 Project Structure
-
+```bash
 world-happiness-analysis/
 │
 ├── data/
